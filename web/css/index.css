@@ -1,0 +1,33 @@
+.logo{
+    width: 300px;
+    height: 300px;
+    padding: 90px;    
+    border: 1px solid #999999;
+    
+}
+img{
+    align-content: center;
+    width: 200px;
+    height: 200px;
+    
+}
+.coluna1{
+    align-content: center;
+    position: relative;
+   
+
+}
+.coluna2{
+    align-content: center;
+    position: relative;
+    
+   
+
+}
+.coluna3{
+    align-content: center;
+    position: relative;
+   
+    
+
+}

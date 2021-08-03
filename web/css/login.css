@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.logo{
+    position: fixed;
+    padding:1px;
+    width: 200px;
+    height: 200px;
+    border: 120px; 
+    background-image: radial-gradient(#6666ff);
+}
+
+h2{
+    
+    text-align: left;
+    padding: 100px;
+    padding-top: 100px;
+    
+}
+.login-container{
+    position: fixed;
+  
+   
+    text-align: center;
+    padding: 10px;
+}
+label{
+  
+  
+}
